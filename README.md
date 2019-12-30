@@ -1,1 +1,1 @@
-# domain-driven-desgin
+# domain-driven-design
